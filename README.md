@@ -6,6 +6,7 @@ It is an FTP password brute force tool.You can define IP,username and list of pa
 # TO-DOs
 > add command line arguments.
 > add wordlist for passwords.
+> speed optimization.
 
 
 
